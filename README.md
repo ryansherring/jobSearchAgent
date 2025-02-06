@@ -17,8 +17,8 @@ JobSearchAgent is a tool designed to help you scrape job listings from various j
 To install JobSearchAgent, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/jobscraper.git
-cd jobscraper
+git clone https://github.com/yourusername/jobSearchAgent.git
+cd jobsearchAgent
 npm install
 ```
 
