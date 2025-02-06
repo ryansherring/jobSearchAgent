@@ -2,7 +2,7 @@
 
 WARNING: I just started putting this together so it's very WIP. If you add sources, be sure to read up on the ethics of scraping that specific source. I may switch this from a scraper API to instead connect to my own containerized python scraper soon.
 
-JobSearchAgent is a tool designed to help you scrape job listings from various job boards and websites for myself and other job searching friends. Using a third-party API, it collects job data—such as job titles, descriptions, company names, and locations—for further analysis. In addition, it leverages AI agents to suggest improvements for resumes and LinkedIn profiles (but not make them to prevent AI slop). 
+JobSearchAgent is a tool designed to help you scrape job listings from various job boards and websites for myself and other job searching friends. It's been great fun as i learn to integrate AI into existing applications. Using a third-party API, it collects job data—such as job titles, descriptions, company names, and locations—for further analysis. In addition, it leverages AI agents to suggest improvements for resumes and LinkedIn profiles (but not make them to prevent AI slop). 
 
 ## Features
 
