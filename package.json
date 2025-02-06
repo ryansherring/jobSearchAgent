@@ -1,0 +1,21 @@
+{
+  "name": "my-job-scraper",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "openai": "^3.3.0",
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.7.3"
+  }
+}
